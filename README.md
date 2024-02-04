@@ -9,6 +9,6 @@ You can hit the **b** key to acess the shop and purchase upgrades and items with
 After you die, you lose all your progress and can play again using the **r** key. \
 You can pause the game at any point using the **p** key. \
 
-***Have Fun!!!*** \
+**Have Fun!!!** \
 
 From Kai, Max, and Vyom
