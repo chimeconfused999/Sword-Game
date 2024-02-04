@@ -1,4 +1,4 @@
-# Sword-Game
+# Sword-Slasher!
 You start off as a sword and are stuck within a matrix surrounded by other enemy swords. 
 
 ## How to play
